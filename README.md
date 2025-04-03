@@ -1,24 +1,12 @@
-# Web Dev Starter Code
+# M11.1 Lab
 
 ## Overview
 
-TODO: Write a project description
+This project builds on our AWS and creates a webpage using the endpoint we created last lab, we create a table and add items with proper ids, prices and names. This is done with some text fields and buttons to send data to the api. We need to be able to access each item by id so that they can be deleted. With each item added to the list there is a delete button associated with the item.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+Sources used:
+- https://developer.mozilla.org/en-US/ mdn web documents has tons of great examples and code to help with thsi assignment.
+- https://www.w3schools.com/html/html_tables.asp this helped with creating the table element (I forgot how) and then they also have tons of examples and help for the xhr and eventlisteners
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
